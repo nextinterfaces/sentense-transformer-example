@@ -1,4 +1,4 @@
-# Sentence Transformers Basic Example 🚀
+# Sentence Transformers Basic Example Using Jupyter and PIP
 
 A simple example to get started with sentence transformers in Jupyter Lab.
 
@@ -34,12 +34,3 @@ jupyter lab
 - `sentence_transformers_basic.ipynb` - Main tutorial notebook
 - `requirements.txt` - Required Python packages
 - `README.md` - This file
-
-## Next Steps
-
-Once you've run through the basic example, you can:
-- Experiment with different sentences
-- Try other models like `all-mpnet-base-v2`
-- Build your own semantic search system
-
-Happy coding! 🎉
